@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "ratnam"
-  given-names: "dodda"
+- family-names: "Ratnam Dodda"
+  given-names: "Dr.H.N.Lakshmi"
   orcid: "https://orcid.org/my-orcid?orcid=0009-0005-9225-4597"
 title: "publication"
 version: 1.0.1
